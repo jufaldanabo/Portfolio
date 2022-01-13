@@ -1,6 +1,7 @@
 ## Portfolio Data science
 
-A continuacion podras encontarar los diferentes proyectos de ciencia de datos que me parecen interesante compartir.
+This is a portfolio in Data Science and machine learning.
+Below I present different lines of work in my experience.
 
 
 
