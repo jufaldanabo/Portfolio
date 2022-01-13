@@ -1,9 +1,23 @@
-## Portfolio Data science
+# Portfolio Data science
 
 This is a portfolio in Data Science and machine learning.
 Below I present different lines of work in my experience.
 
+## NLP
 
+## Machine learning (Model of classification)
+
+## Machine learning (Model of segmentation)
+
+## Deployment Model of machine learning in lambda function
+
+## Deployment feature engineering in cluster Emr with lambda function
+
+## Deployment Model fast api
+
+## model regression
+
+## time series 
 
 You can use the [editor on GitHub](https://github.com/jufaldanabo/porfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
