@@ -9,7 +9,7 @@ Below I present different lines of work in my experience.
 
 
 
-You can use the [editor on GitHub](https://github.com/jufaldanabo/model-clasification) to maintain and preview the content for your website in Markdown files.
+You can use the [Repository Model Clasification](https://github.com/jufaldanabo/model-clasification) to maintain and preview the content for your website in Markdown files.
 
 ## Machine learning (Model of segmentation)
 
