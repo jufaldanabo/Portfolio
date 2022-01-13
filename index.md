@@ -7,6 +7,10 @@ Below I present different lines of work in my experience.
 
 ## Machine learning (Model of classification)
 
+
+
+You can use the [editor on GitHub](https://github.com/jufaldanabo/model-clasification) to maintain and preview the content for your website in Markdown files.
+
 ## Machine learning (Model of segmentation)
 
 ## Deployment Model of machine learning in lambda function
