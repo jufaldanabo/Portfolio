@@ -17,7 +17,9 @@ Below I present different lines of work in my experience.
 
 ## Machine learning (Model regression)
 
-## Machine learning (Time series)
+## Machine learning (Model Time series)
+
+## Machine learning (Model recommendation system)
 
 You can use the [editor on GitHub](https://github.com/jufaldanabo/porfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
