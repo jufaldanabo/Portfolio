@@ -15,9 +15,9 @@ Below I present different lines of work in my experience.
 
 ## Deployment Model fast api
 
-## model regression
+## Machine learning (model regression)
 
-## time series 
+## Machine learning (time series)
 
 You can use the [editor on GitHub](https://github.com/jufaldanabo/porfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
