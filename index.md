@@ -1,7 +1,7 @@
 
-![profile images](/gh-pages/assets/foto2.PNG)
+![profile images](docs/assets/foto2.PNG)
 
-
+JUAN FERNANDO ALDANA BOHORQUEZ
 
 ## Portfolio Data science
 
