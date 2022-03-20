@@ -1,5 +1,5 @@
 
-![profile images](image.png)
+![profile images](docs/assets/foto2.PNG)
 # Portfolio Data science
 
 This is a portfolio in Data Science and machine learning.
