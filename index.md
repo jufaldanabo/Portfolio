@@ -1,5 +1,5 @@
 
-![profile images](/gs-pages/assets/foto2.PNG)
+![profile images](/gh-pages/assets/foto2.PNG)
 # Portfolio Data science
 
 This is a portfolio in Data Science and machine learning.
