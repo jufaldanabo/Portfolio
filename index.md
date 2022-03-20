@@ -1,9 +1,9 @@
 
 ![profile images](/gh-pages/assets/foto2.PNG)
 
-# JUAN FERNANDO ALDANA BOHORQUEZ
 
 
+## Portfolio Data science
 
 
 This is a portfolio in Data Science and machine learning.
