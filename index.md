@@ -12,9 +12,9 @@ Below I present different lines of work in my experience.
 ## Deployment Model of machine learning in lambda function
 
 
-you can go to [Repository Lambda funnction Machine Learning](https://github.com/jufaldanabo/Ml_lambda_function) repository and find the development of this project.
+You can go to [Repository Lambda function Machine Learning](https://github.com/jufaldanabo/Ml_lambda_function) repository and find the development of this project.
 
 
 ## Machine learning, regression model.
 
-you can go to [Repository Lambda funnction Machine Learning](https://github.com/jufaldanabo/model_regresion) repository and find the development of this project.
+You can go to [Repository Model Regression Machine Learning](https://github.com/jufaldanabo/model_regresion) repository and find the development of this project.
