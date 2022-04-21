@@ -12,6 +12,9 @@ Below I present different lines of work in my experience.
 ## Deployment Model of machine learning in lambda function
 
 
-You can use the [Repository Lambda funnction Machine Learning](https://github.com/jufaldanabo/Ml_lambda_function) to maintain and preview the content for your website in Markdown files.
+you can go to [Repository Lambda funnction Machine Learning](https://github.com/jufaldanabo/Ml_lambda_function) repository and find the development of this project.
 
 
+## Machine learning, regression model.
+
+you can go to [Repository Lambda funnction Machine Learning](https://github.com/jufaldanabo/model_regresion) repository and find the development of this project.
